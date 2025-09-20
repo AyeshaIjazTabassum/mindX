@@ -1,0 +1,63 @@
+{
+  "timestamp": "2025-09-20T15:42:24.154542",
+  "memory_type": "system_state",
+  "importance": 4,
+  "agent_id": "enhanced_monitoring_system",
+  "content": {
+    "timestamp": 1758364941.2502768,
+    "cpu_percent": 30.2,
+    "cpu_per_core": [
+      50.0,
+      0.0,
+      0.0,
+      0.0,
+      33.3,
+      0.0,
+      0.0,
+      14.3
+    ],
+    "cpu_count_logical": 8,
+    "cpu_count_physical": 4,
+    "cpu_freq_current": 1696.0,
+    "cpu_freq_min": 0.0,
+    "cpu_freq_max": 1896.0,
+    "load_average": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "memory_percent": 78.7,
+    "memory_total_gb": 15.912986755371094,
+    "memory_available_gb": 3.3880348205566406,
+    "memory_used_gb": 12.524951934814453,
+    "memory_free_gb": 3.3880348205566406,
+    "memory_cached_gb": 0.0,
+    "memory_buffers_gb": 0.0,
+    "swap_percent": 5.0,
+    "swap_total_gb": 2.80743408203125,
+    "swap_used_gb": 0.14016342163085938,
+    "swap_free_gb": 2.6672706604003906,
+    "disk_usage": {
+      "/": 89.7367729378098,
+      "/tmp": -1
+    },
+    "network_io": {
+      "bytes_sent": 70713365,
+      "bytes_recv": 799068201,
+      "packets_sent": 361470,
+      "packets_recv": 598295
+    },
+    "process_count": 297
+  },
+  "context": {
+    "category": "resource",
+    "severity": "INFO"
+  },
+  "tags": [
+    "monitoring",
+    "resource",
+    "info"
+  ],
+  "parent_memory_id": null,
+  "memory_id": "77737084aee9e558"
+}

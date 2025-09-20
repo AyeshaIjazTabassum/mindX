@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-09-20T15:33:30.378654",
+  "memory_type": "system_state",
+  "importance": 3,
+  "agent_id": "id_manager_for_augmentic_mastermind",
+  "content": {
+    "process_name": "id_manager_wallet_exists",
+    "data": {
+      "entity_id": "augmentic_mastermind",
+      "address": "0xcA8FcD9f07e6b3b83bd4984A3bE50863C473F404",
+      "env_var": "MINDX_WALLET_PK_AUGMENTIC_MASTERMIND"
+    }
+  },
+  "context": {
+    "agent_id": "id_manager_for_augmentic_mastermind"
+  },
+  "tags": [
+    "id_manager_wallet_exists",
+    "process_log"
+  ],
+  "parent_memory_id": null,
+  "memory_id": "4424505efe47ba1f"
+}

@@ -1,0 +1,28 @@
+{
+  "timestamp": "2025-09-20T17:54:34.082004",
+  "memory_type": "performance",
+  "importance": 4,
+  "agent_id": "enhanced_monitoring_system",
+  "content": {
+    "agent_id": "resource_monitor",
+    "action_type": "resource_collection",
+    "execution_time_ms": 10,
+    "success": true,
+    "timestamp": "2025-09-20T17:54:34.080935",
+    "cpu_percent": 0,
+    "memory_percent": 0,
+    "disk_usage": {},
+    "sync_type": "resource_data"
+  },
+  "context": {
+    "category": "performance",
+    "severity": "INFO"
+  },
+  "tags": [
+    "monitoring",
+    "performance",
+    "info"
+  ],
+  "parent_memory_id": null,
+  "memory_id": "56db3739faa048a8"
+}

@@ -1,0 +1,22 @@
+{
+  "file_patterns": {
+    "test_file": [
+      {
+        "directive": "evolve test_file.py",
+        "cycle": 1,
+        "timestamp": 1758361710.9828317
+      }
+    ]
+  },
+  "code_patterns": {},
+  "success_rates": {
+    "test_file": [
+      {
+        "cycle": 1,
+        "success": true,
+        "changes_count": 1,
+        "timestamp": 1758361710.9828317
+      }
+    ]
+  }
+}
