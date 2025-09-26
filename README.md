@@ -277,7 +277,7 @@ python -m pytest tests/ --cov=.
 ## 🌐 Enhanced Web Interface
 
 ### **Real-Time Monitoring Dashboard**
-The enhanced web interface provides a comprehensive control panel with:
+The enhanced web interface provides a comprehensive control panel with following options:
 
 - **🔴🟢 Health Status**: Live system health indicators with component-level monitoring
 - **📊 Performance Metrics**: Real-time CPU, memory, and disk usage tracking
